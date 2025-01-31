@@ -1,6 +1,3 @@
-- 👋 Hi, I’m elif
-- 👀 I’m interested in parametric design and biomimicry
-- 🌱 I’m currently learning grasshopper and c++
 
 
 <!---
